@@ -82,7 +82,7 @@ export default function Navbar(props) {
                 </a>
               </li>
             </ul>
-            {/* <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
+            <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
               <li className="flex items-center">
                 <IndexDropdown />
               </li>
@@ -127,7 +127,7 @@ export default function Navbar(props) {
                   <i className="fas fa-arrow-alt-circle-down"></i> Download
                 </button>
               </li>
-            </ul> */}
+            </ul>
           </div>
         </div>
       </nav>
