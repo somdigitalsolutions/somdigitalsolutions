@@ -111,7 +111,7 @@ export default function Index() {
               </div>
             </div>
 
-            <div className="w-full md:w-6/12 px-4">
+            <div id="Services" className="w-full md:w-6/12 px-4">
             <h1 className=" text-5xl  mb-1 font-semibold">Our Services </h1>
 
               <div className="flex flex-wrap">
